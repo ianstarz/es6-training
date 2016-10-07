@@ -1,0 +1,19 @@
+{
+  "name": "es6-training",
+  "version": "1.0.0",
+  "description": "These are the tutorial materials for the 'Developing for Web Clients with ES6' course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nestlabs/es6-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nestlabs/es6-training/issues"
+  },
+  "homepage": "https://github.com/nestlabs/es6-training"
+}
